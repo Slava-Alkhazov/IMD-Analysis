@@ -13,7 +13,7 @@ Features:
     Classification Report.
 
 How to Run
-  Clone the repository: git clone https://github.com/Slava-Alkhazov/IMD_Analysis.git
+  Clone the repository: git clone https://github.com/Slava-Alkhazov/IMD-Analysis.git
                         cd IMD_Analysis
   Install dependencies: Ensure you have Python 3.8+ installed on your system.
                         pip install -r requirements.txt
