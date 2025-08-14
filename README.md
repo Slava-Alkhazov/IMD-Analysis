@@ -13,7 +13,7 @@ Features:
     Classification Report.
 
 How to Run
-  Clone the repository: git clone https://github.com/NikitaMarshchonok/IMD_Analysis.git
+  Clone the repository: git clone https://github.com/Slava-Alkhazov/IMD_Analysis.git
                         cd IMD_Analysis
   Install dependencies: Ensure you have Python 3.8+ installed on your system.
                         pip install -r requirements.txt
@@ -51,10 +51,3 @@ Add more genres for classification.
 Use more advanced models (e.g., Random Forest or Neural Networks).
 Perform hyperparameter tuning.
 Collect a custom dataset for testing.
-
-
-Author
-Nikita Marshchonok
-
-LinkedIn: https://www.linkedin.com/in/nikita-marshchonok
-GitHUB: https://github.com/NikitaMarshchonok
