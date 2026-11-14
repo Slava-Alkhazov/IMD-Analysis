@@ -27,7 +27,10 @@ Prediction Example
   Predicted Genre: Comedy
 
 
-
+pandas — for data manipulation.
+scikit-learn — for text vectorization and model training.
+nltk — for text preprocessing (stop-word removal).
+matplotlib and seaborn — for visualization.
 
 
 IMD_Analysis/
