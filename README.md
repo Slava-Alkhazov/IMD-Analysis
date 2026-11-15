@@ -1,7 +1,4 @@
-IMD Analysis Project
-Description
-This project predicts the genre of movies based on their textual descriptions. It uses Natural Language Processing (NLP) and Machine Learning to classify genres. 
-The project demonstrates skills in data processing, text pre-processing, model building, and result visualization.
+
 
 Features:
   Load and preprocess data from the IMDB_top_1000.csv file.
